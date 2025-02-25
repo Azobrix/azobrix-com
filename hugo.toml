@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://azobrix.com/'
+languageCode = 'fr'
+theme = 'blowfish'
+
+defaultContentLanguage = "fr"
+disableLanguages = ["en"]
+
