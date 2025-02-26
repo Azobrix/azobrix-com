@@ -11,18 +11,21 @@ title = "Azobrix"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Surement un mélange de plein de sujets "
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+ [params.author]
+   name = "Azobrix"
+   image = "photos/me.jpeg"
+   imageQuality = 96
+   headline = "On m'appelle aussi Romain."
+   #bio = ""
+   links = [
+     { itch-io = "https://azobrix.itch.io" },
+     { github = "https://github.com/azobrix" },
+     { linkedin = "https://linkedin.com/in/tellierromain" },
+   ]
+#     { email = "mailto:azobrix@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
