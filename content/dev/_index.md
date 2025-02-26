@@ -9,6 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Des tuto ou des avis sur des techno{{< /lead >}}
+Des tuto ou des avis sur des techno
+{{< /lead >}}
 
 ---
