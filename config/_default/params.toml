@@ -74,7 +74,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = true
+  showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true
@@ -110,7 +110,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   cardView = false
 
 [term]
@@ -119,7 +119,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showBreadcrumbs = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
