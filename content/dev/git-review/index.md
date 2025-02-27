@@ -1,5 +1,6 @@
 +++
 title = "Git, devenir le chouchou de son reviewer"
+description = "Un article avec la vidéo de mon passage à mixit"
 date = '2025-02-27'
 draft = false
 tags = ["Vidéo", "Conférence", "Mixit", "Git"]

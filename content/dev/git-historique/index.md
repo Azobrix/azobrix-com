@@ -1,5 +1,6 @@
 +++
 title = "Git - (Re)Travailler l'historique"
+description = "Des conseils pour ré-écrire l'historique git d'une branche"
 date = '2025-02-27'
 draft = false
 tags = ["Git", "Rebase"]
