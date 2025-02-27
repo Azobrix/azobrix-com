@@ -15,10 +15,10 @@ title = "Azobrix"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Azobrix"
+   name = "Romain Tellier"
    image = "photos/me.jpeg"
-   imageQuality = 96
-   headline = "On m'appelle aussi Romain."
+   imageQuality = 100
+   headline = "On m'appelle aussi **Azobrix**."
    #bio = ""
    links = [
      { itch-io = "https://azobrix.itch.io" },
