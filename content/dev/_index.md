@@ -9,7 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Des tuto ou des avis sur des techno
+Je vais surement parler de plein de choses sans rapport.
 {{< /lead >}}
 
 ---
