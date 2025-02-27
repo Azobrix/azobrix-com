@@ -23,23 +23,27 @@ Le bureau était vaste, baigné d’une lumière naturelle, les quelques étagè
 
 Marius cligna des yeux, comme pour se demander comment il avait pu ignorer cet homme d’un mètre quatre-vingt-treize entre lui et la bibliothèque, et, dans un geste rapide, serra la main d’Isode tout en s’excusant.
 
-“Oh, bonjour ! Désolé, je ne vous avais pas vu. Je suis Maurice Rivay, Initié futchi et nouvel Agent.”
+“Oh, bonjour ! Désolé, je ne vous avais pas vu. Je suis Maurice Rivay, Initié futchi et nouvel agent.”
 
 Isode esquissa un léger sourire, amusé par la situation et invita Rivay à le suivre jusqu’à son poste de travail.
 
 Ils traversèrent plusieurs portes opaques avant de s’arrêter quelques instants dans le sas de décontamination les menant au poste de Maurice.
 
-“Une fois désinfecté, vous pourrez entrer et commencer votre travail. En cas de besoin, je serai à la supervision, là où je vous vois et vous entends” Lui adressa Isode en souriant.
+“Une fois désinfecté, vous pourrez entrer et commencer votre travail. En cas de besoin, je serai à la supervision, là où je vous vois et vous entends” lui adressa Isode en souriant.
 
 La pièce derrière cette nouvelle porte mate ressemblait à celles dans lesquelles il avait déjà pratiqué pendant ses quatre années d’études.
 
-D’abord un grand bureau dont la table était faite d’une plaque de verre protégeant un écran.
+
+
+D’abord, un grand bureau dont la table était faite d’une plaque de verre protégeant un écran.
 
 Puis, un siège aussi confortable que peut-être un siège de bureau.
 
 Ensuite, des tapis roulants. Un à droite du bureau, et un sur la gauche.
 
-Et, bien-sûr, les caméras, 6 pour être exacte. Chacune scrutant chaque centimètre carré de la pièce, pour passer l’envie de faire disparaitre ce qui transite sur ces tapis.
+Et, bien-sûr, les caméras, 6 pour être exacte. Chacune scrutant chaque centimètre carré de la pièce, faisant passer l’envie de faire disparaitre ce qui transite sur ces tapis.
+
+---
 
 C’est sur cette chaise molletonnée qu’il passa la première année de son “service aux entreprises” comme le nomme le S.L.A.S.T.
 
@@ -60,16 +64,18 @@ Enfin, comme un croupier récupère les gains, Rivay saisis l’objet à sa droi
 Cumulé, cela donne un salaire faramineux que seuls les futchi assermentés peuvent espérer gagner. Pour Rivay, cette tâche ne durerait que le temps de son “service”.
 
 Soudain, une lumière rouge se mit à clignoter, illuminant la pièce autour de l’écran.
-Rivay ne fût pas surpris, ce genre d’événement arrive à chaque fois qu’un Agent loupe une copie.
-L’écran affiche ensuite une vidéo de l’Agent en question, tenant son objet de la main droite. Puis un zoom sur l’objet laisse apparaitre le temps de quelque secondes deux marques violettes formant une croix. Et l’objet disparait.
+Rivay ne fût pas surpris, ce genre d’événement arrive à chaque fois qu’un agent loupe une copie.
+L’écran affiche ensuite une vidéo de l’agent en question, tenant son objet de la main droite. 
+Puis, un zoom sur l’objet laisse apparaitre le temps de quelque secondes deux marques violettes formant une croix. Et l’objet disparait.
 
-L’Agent à l’écran n’est pas surpris non plus. Il faut dire que ce genre d’échec arrive presque tous les jours dans l’usine.
+L’agent à l’écran n’est pas surpris non plus. Ce genre d’échec arrive presque tous les jours dans l’usine.
 
 “Isode est-ce que tu peux arrêter de m’envoyer ces vidéos, je perds mon temps... " demanda Maurice aux caméras.
 ”C’est la procédure, tu le sais bien” lui répondit une voix depuis l’une d’entre elles.
 
-Cette procédure Maurice la connait bien, on lui a enseigné lors de ses études. Elle est censé rappeler aux futchi que leur pouvoir comporte des risques, et que c’est pour cette raison qu’ils ne peuvent l’utiliser qu’au sein d’une entreprise assermentée par le S.L.A.S.T.
+Cette procédure Maurice la connait bien, on lui a enseigné lors de ses études. Elle est censée rappeler aux futchi que leur pouvoir comporte des risques, et que c’est pour cette raison qu’ils ne peuvent l’utiliser qu’au sein d’une entreprise assermentée par le S.L.A.S.T.
 
-Dans les faits, Futech utilise cette alerte aussi pour rappeler à ses Agents à quel point son algorithme est performant. “Seulement 0,05 % d’échec dans toute l’usine” comme aime à le rappeler Sofia Alvarez, directrice de la communication du groupe lors de chacune de ses interventions médiatiques.
+Futech utilise surtout cette alerte pour rappeler à ses agents à quel point son algorithme est performant. “Seulement 0,05 % d’échec dans toute l’usine” comme aime à le rappeler Sofia Alvarez, directrice de la communication du groupe, lors de chacune de ses interventions médiatiques.
 
-Une statistique qui ne doit rien au hasard. Dix ans d’expertise dans l’analyse des futchi ont permis à l’entreprise de perfectionner ses processus. L’Algorithme sait exactement quel employé est le plus efficace pour chaque clonage et combien de copies pourront être réalisées.
+Une statistique qui ne doit rien au hasard. Dix ans d’expertise dans l’analyse des futchi ont permis à l’entreprise de perfectionner ses processus. 
+L’Algorithme sait exactement quel agent est le plus efficace pour chaque clonage et combien de copies pourront être réalisées.

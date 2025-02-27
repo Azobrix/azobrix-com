@@ -5,6 +5,7 @@ description: "Ma première nouvelle"
 cascade:
   keywords: [fiction, nouvelle, science-fiction]
   showHero: false
+  featureimage_local: "samira-featured.png"
 
 ---
 
@@ -17,5 +18,9 @@ Pour développer un peu plus cet univers,
 je me suis mis au défi d'écrire une nouvelle, d'une trentaine de pages
 dans cet univers.
 
----
 
+{{< alert >}}
+**Trigger warning:** Violence sexuelle et psychologique
+{{< /alert >}}
+
+---
