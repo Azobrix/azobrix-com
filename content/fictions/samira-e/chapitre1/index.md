@@ -21,7 +21,7 @@ Le bureau était vaste, baigné d’une lumière naturelle, les quelques étagè
 
 “Bienvenue. Isode Kreel, superviseur et Maitre Torii, c’est moi qui suis chargé de votre première journée dans notre service.”
 
-Marius cligna des yeux, comme pour se demander comment il avait pu ignorer cet homme d’un mètre quatre-vingt-treize entre lui et la bibliothèque, et, dans un geste rapide, serra la main d’Isode tout en s’excusant.
+Maurice cligna des yeux, comme pour se demander comment il avait pu ignorer cet homme d’un mètre quatre-vingt-treize entre lui et la bibliothèque, et, dans un geste rapide, serra la main d’Isode tout en s’excusant.
 
 “Oh, bonjour ! Désolé, je ne vous avais pas vu. Je suis Maurice Rivay, Initié futchi et nouvel agent.”
 
@@ -35,7 +35,7 @@ La pièce derrière cette nouvelle porte mate ressemblait à celles dans lesquel
 
 
 
-D’abord, un grand bureau dont la table était faite d’une plaque de verre protégeant un écran.
+D’abord, un grand bureau dont la table était faite d’une plaque de verre protégeant un écran diffusant les informations de l'Algorithme.
 
 Puis, un siège aussi confortable que peut-être un siège de bureau.
 
@@ -53,7 +53,7 @@ D’abord un mouvement net pour exposer ses paumes vides à la caméra.
 
 Puis, d’un mouvement fluide et précis, la main droite sur l’objet arrivant du tapis.
 
-Ensuite, la main gauche fait apparaitre une copie marquée d’une griffe orange et la dépose sur le tapis de gauche.
+Ensuite, la main gauche fait apparaitre une copie de l'objet marquée d’une griffe orange et la dépose sur le tapis de gauche.
 
 Et ainsi de suite jusqu’à ce que l’écran signale que le nombre de copies est suffisant.
 

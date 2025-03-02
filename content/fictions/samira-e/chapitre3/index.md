@@ -9,7 +9,7 @@ La soirée battait son plein dans le grand salon de Vincent, un des amis d’enf
 La table basse, débordait de bouteilles de bières, de vin et d’apéritifs à moitié entamés.
 Maurice, adossé au canapé, riait à l’anecdote que Julia venait de raconter.
 
-Anton, assis sur un pouf à côté de Maurice, leva son verre “Eh, Maurice ! C’est ta tournée la prochaine. ».
+Anton, assis sur un fauteuil à côté de Maurice, leva son verre “Eh, Maurice ! C’est ta tournée la prochaine. ».
 
 « Ça roule » répondit-il en souriant. Il se leva pour attraper les bouteilles de vins qu’il avait apporté, et, remplit les verres autour de lui.
 

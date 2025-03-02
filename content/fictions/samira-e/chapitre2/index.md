@@ -39,12 +39,14 @@ Elle savait ce qu’il allait lui demander. C’était toujours la même chose a
 Ce n’était jamais un simple ordre, mais une exigence déguisée derrière ce “code”. Un rituel qu’elle avait appris à exécuter.
 
 Avant d’être affectée au service de Stefan, elle avait suivi deux années d’éducation, mais personne ne lui avait expliqué cet aspect de son rôle. C’est lors de sa deuxième semaine chez Maître Eisenfeld qu’il lui avait montré. Cela devenait leur secret. Il lui avait dit qu’elle devait le garder sous silence, qu’il n’y avait que lui qui pouvait savoir, comme si c’était un privilège qu’il lui accordait, une vérité qu’elle seule portait.
+Chaque fois qu’elle obéissait, une partie d’elle se remémorait cette promesse. Stefan l’avait enfermée dans ce silence, cette fois-là également.
 
-Chaque fois qu’elle obéissait, une partie d’elle se remémorait cette promesse. Stefan l’avait enfermée dans ce silence.
+La suite de l'après-midi se déroula dans un enchaînement de demandes, 
+de sourires hypocrites et de regards perçants. 
+Stefan avait l’art de manipuler, d’utiliser Bela avec une grande précision. Lors de chaque réunion importante, elle était là, dans l’ombre, prête à répondre à ses ordres silencieux, à gérer les détails dont il n’avait pas le temps de s’occuper.
 
-L’après-midi se déroula dans un enchaînement de demandes, de sourires hypocrites et de regards perçants. Stefan avait l’art de manipuler, d’utiliser Bela avec une grande précision. Lors de chaque réunion importante, elle était là, dans l’ombre, prête à répondre à ses ordres silencieux, à gérer les détails dont il n’avait pas le temps de s’occuper.
-
-L’horloge imposante du salon indiquait 20h41 et la journée touchait à sa fin. Stefan se posa sur son lit, un dernier sourire se dessinant sur ses lèvres. "Ah, Bela. Avant que tu ne rejoignes ta chambre, j’aimerais que tu vérifies les rideaux."
+L’horloge imposante du salon indiquait 20h41 et la journée touchait à sa fin. 
+Stefan se posa sur son lit, un dernier sourire se dessinant sur ses lèvres. "Ah, Bela. Avant que tu ne rejoignes ta chambre, j’aimerais que tu vérifies à nouveau les rideaux."
 
 Elle savait ce que cela signifiait.
 

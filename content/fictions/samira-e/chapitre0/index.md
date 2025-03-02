@@ -5,7 +5,10 @@ series: ["Samira E"]
 series_order: 0
 ---
 
-Elle avançait en silence, ses pas légers sur le sol métallique de l’usine. Une griffe orange marquait sa peau, juste en dessous de son poignet droit. Personne ne lui avait jamais expliqué ce que cela signifiait.
+Elle avançait en silence, ses pas légers sur le sol métallique de l’usine. 
+Une griffe orange marquait sa peau, juste en dessous de son poignet droit. 
+Elle ressemblait étrangement à un tatouage, fait d'une simple ligne orange d'environ cinq centimètres.
+Personne ne lui avait jamais expliqué ce que cela signifiait.
 
 Elle appartenait à ce lieu, comme les fours incandescents et le trou sombre par lequel apparaissent les objets.
 

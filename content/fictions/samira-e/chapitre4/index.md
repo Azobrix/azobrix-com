@@ -39,10 +39,14 @@ Ils traversèrent une série de portes scellées avant d’arriver dans une sall
 
 Maurice observa la femme avec une fascination mêlée d’inquiétudes.
 
-« C'est impossible » s'exclama Maurice, il savait ce qu'autant de griffe violette signifiait. Il était impossible de réussir autant de copies.
+« C'est impossible » s'exclama Maurice, il savait ce qu'autant de griffe violette signifiait. 
+Il était impossible de réussir autant de copies.
 
-La vue de Samira lui projeta les images de cette fois où algorithme lui avait demandé de cloner une douzième fois une souris et que deux griffes violettes s'étaient croisées.
-Le souvenir des douze souris se tordant de douleur sur son bureau avant de se décomposer en un amas de chair et de sang fît couler une sueur froide dans sa nuque.
+Voir ces griffes violettes fit surgir des souvenirs récents à Maurice.
+Après un clonage réussi onze fois, l'Algorithme lui avait demandé de faire une douzième copie d'une souris. 
+Alors que les onze copies étaient encore posées sur le bureau, Maurice avait posé la main une douzième fois sur l'originale.
+C'est en apparaissant que la douzième griffe violette, apparut, chevauchant une griffe déjà existante.
+Les douze souris se mirent à pousser un cri de douleur avant de se décomposer en un amas de chair et de sang.
 
 Les milliers de griffes toutes parallèles sur le corp de Samira ne pouvaient vouloir dire qu'une chose…
 
