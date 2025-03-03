@@ -43,15 +43,15 @@ Samira, vêtue d’une blouse grise trop grande pour elle, le suivait de près.
 Son regard était froid, concentré. 
 Ils n’avaient que quelques minutes avant que les renforts ne bloquent toutes les sorties.
 
-« On tourne à droite, » murmura Maurice. Samira se tenait à ses côtés. 
+« On tourne à droite, » murmura Maurice. Samira se tenait à ses côtés. 
 Bien qu'il ne comprenait pas comment c’était possible, 
 Samira connaissait les moindres détails du plan qu’il avait travaillé avec Freya.
 
 Un instant plus tard, des gardes passèrent en courant à l’intersection opposée, 
 c’était le signal.
 
-« Tu es sûre de pouvoir marcher encore longtemps ? » demanda-t-il en lui lançant un regard furtif.
-Samira hocha la tête. « Ne t’inquiète pas pour moi. Continue. »
+« Tu es sûre de pouvoir marcher encore longtemps ? » demanda-t-il en lui lançant un regard furtif.
+Samira hocha la tête. « Ne t’inquiète pas pour moi. Continue. »
 
 Ils atteignirent une salle secondaire du laboratoire, où Maurice déclencha un protocole d'évacuation à l’aide de la carte d’accès qu’il avait discrètement copié le matin même.
 Une série de lumières s’éteignirent dans les bureaux officiels de Futech, forçant le protocole d’évacuation des Futchi présents.
@@ -60,13 +60,13 @@ Un bruit métallique se fit entendre derrière eux.
 Maurice se retourna brusquement, le cœur battant. Une silhouette se dessina dans l’ombre. 
 Un garde ? Non. C’était Isode Kreel.
 
-« Tu n’iras pas plus loin, Maurice, tu pensais que je ne verrais pas la griffe sur mon badge ? » déclara-t-il d’une voix grave.
+« Tu n’iras pas plus loin, Maurice, tu pensais que je ne verrais pas la griffe sur mon badge ? » déclara-t-il d’une voix grave.
 Samira recula d’un pas, ça ne faisait pas partie du plan.
 
-Maurice, lui, resta immobile. « Tu vas me laisser passer, Isode. Tu sais très bien que Futech nous broiera tous les deux si on reste ici. 
+Maurice, lui, resta immobile. « Tu vas me laisser passer, Isode. Tu sais très bien que Futech nous broiera tous les deux si on reste ici. 
 Sans Samira, ils n’auront plus besoin de nous, on sera libre. »
 
-Isode sembla hésiter une fraction de seconde. Puis, il lança un trousseau de clés à Maurice, « Je m’assure que tu n’as pas laissé de trace » souffla-t-il.
+Isode sembla hésiter une fraction de seconde. Puis, il lança un trousseau de clés à Maurice, « Je m’assure que tu n’as pas laissé de trace » souffla-t-il.
 
 Maurice lui fit un signe de remerciement de la tête et ouvrit la porte d’accès vers le tunnel d’évacuation. 
 Il s’engouffra avec Samira, refermant derrière lui.

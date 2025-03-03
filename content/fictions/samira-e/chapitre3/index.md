@@ -57,16 +57,16 @@ Et ainsi de suite, quatre heures durant Rivay avait copié plus d’un millier d
 
 Alors que ses pensées se remémoraient la soirée de la veille, Rivay senti un picotement dans sa main droite, comme si on venait de lui enfoncer trois aiguilles. Suivi d’un cri de douleur félin.
 
-“UN CHAT?!” s’exclama Rivay en regardant ses mains.
+« UN CHAT?! » s’exclama Rivay en regardant ses mains.
 Il venait de cloner un chat, vivant.
 
 Le chat dans sa main droite, marqué d’une griffe violette, se débattait, hurlant comme s’il vivait la pire des tortures. Maurice, pétrifié, sentit son souffle se couper. Les cris s’éteignirent aussi vite qu’ils avaient commencé, mais l’image du chat tordu de douleur restait gravée dans son esprit. Ses mains tremblaient tandis qu’il réalisait ce qu’il venait de faire.
 
-“Comment est-ce arrivé ? Je faisais comme d’habitude” se demanda-t-il.
+« Comment est-ce arrivé ? Je faisais comme d’habitude » se demanda-t-il.
 Il savait ce qu’il venait de faire. C’était un sujet fréquent lors de ses années d’études.
 
 Le clonage d’être doué de sensibilité était interdit, voir illégale dans la majorité des Lager. Un crime, qui pouvait aller jusqu’à entrainer la peine de mort du Futchi.
 
 Et là, Maurice venait de copier un chat, dans son bureau, sous les six caméras le reliant à l’algorithme et au superviseur.
 
-“Maurice, rejoins-moi dans mon bureau” s’indigna Isode Kreel à travers son microphone.
+« Maurice, rejoins-moi dans mon bureau » s’indigna Isode Kreel à travers son microphone.

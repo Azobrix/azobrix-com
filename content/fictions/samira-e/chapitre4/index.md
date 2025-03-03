@@ -13,7 +13,7 @@ Son rôle ? Cloner des animaux pour des clients fortunés ou pour des zoos situ�
 
 Jour après jours, il travaillait sous les ordres d’Isode Kreel. Lui aussi était prisonnier de cette situation. L’homme, autrefois si imposant et sûr de lui, était devenu une ombre de lui-même. Futech détenait des informations compromettantes sur chacun des employés de cette branche clandestine. La pression était constante, et le poids des actes qu’ils accomplissaient pesait lourd sur leurs consciences.
 
-"Le clone ne porte pas les souvenirs ni l'âme de celui qui l’a précédé. C’est comme si un être tout neuf prenait place dans un corps déjà usé, une entité distincte qui n’a ni les traces du passé, ni la continuité de l’esprit d’origine.” Cette phrase, de son professeur d’éthique, Maurice l’entendait à chaque fois qu’il devait cloner un être vivant.
+« Le clone ne porte pas les souvenirs ni l'âme de celui qui l’a précédé. C’est comme si un être tout neuf prenait place dans un corps déjà usé, une entité distincte qui n’a ni les traces du passé, ni la continuité de l’esprit d’origine. » Cette phrase, de son professeur d’éthique, Maurice l’entendait à chaque fois qu’il devait cloner un être vivant.
 
 ---
 
