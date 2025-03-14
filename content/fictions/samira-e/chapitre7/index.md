@@ -12,7 +12,7 @@ Sofia Alvarez enchainait les interviews, les plateaux télé, les interrogatoire
 Tout le monde voulait savoir comment Futech, cette entreprise classé quatrième des Corporations sous l’influence du S.L.A.S.T et leader dans le domaine du clonage depuis plus de dix ans avait pu à ce point se louper. Comment son action avait pu perdre 300% en deux ans. Qu’en était-il de cet algorithme que Sofia Alvarez avait tant ventée dans les médias ?
 
 « C’était du bluff, on n’avait rien. Il suffisait d’injecter l’argent du marché parallèle de copie de Samira pour compenser les échecs lors des clonages officiels. 
-Une injection d’argent sale pour compenser les pertes, passer inaperçu et supprimer la concurrence ! » c’est ce que Samira imaginait dire devant chacune de ces caméras, dans chacun des microphones braqués sur elle.
+Une injection d’argent sale pour compenser les pertes, passer inaperçu et supprimer la concurrence ! » c’est ce que Sofia imaginait dire devant chacune de ces caméras, dans chacun des microphones braqués sur elle.
 Mais elle y perdrait sa liberté.
 
 « On suspecte des entreprises concurrentes d’avoir pénétré dans notre système via un ancien employé ayant disparu. C’est grâce à lui qu’ils ont pu compromettre notre algorithme de manière provisoire ». C’est donc la réponse qu’elle s’efforçait de donner aujourd’hui, comme chaque jour de ces deux dernières années.
