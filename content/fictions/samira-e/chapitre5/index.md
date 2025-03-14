@@ -81,7 +81,9 @@ Freya Jensen se leva, outrée. « Votre honneur, nous parlons d’un crime. Ma 
 
 Le juge la fusilla du regard. « Maître, surveillez votre ton. Nous sommes ici pour juger un meurtre, pas pour débattre de la morale. »
 
-Maurice décrocha lentement son regard de Bela. Ce procès était une mascarade, un clone ne pouvait pas sortir vivant de ce crime. Il n’avait pas l’intention d’aller contre le système. Il vit là une opportunité. Une porte de sortie.
+Maurice décrocha lentement son regard de Bela. Les clones, en tant que produit de contre bande, n'était que marginalement admis dans la société. Ce procès était une mascarade, elle ne pouvait pas sortir vivant de ce crime. 
+
+Maurice n’avait pas l’intention d’aller contre le système. Il vit là une opportunité. Une porte de sortie.
 
 Son regard glissa vers l’écran de son terminal personnel. Il tapa un message, court et précis, adressé à Sofia Alvarez.
 
