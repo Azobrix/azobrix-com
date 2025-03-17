@@ -1,6 +1,6 @@
 ---
 title: "Samira E"
-tags: ["Nouvelle"]
+tags: ["Nouvelle", "Univers: Lager"]
 description: "Ma première nouvelle"
 cascade:
   keywords: [fiction, nouvelle, science-fiction]
@@ -11,12 +11,9 @@ cascade:
 Depuis quelques années, j'imagine un univers de 
 science-fiction au cours de mes balades.
 
-Pour développer un peu plus cet univers,
-je me suis mis au défi d'écrire une nouvelle, d'une trentaine de pages
-dans cet univers.
-
-{{< alert >}}
-**Trigger warning:** Violence sexuelle et psychologique
+{{< alert icon="pencil" >}}
+Les 9 chapitres de **Samira E** sont maintenant écrit.\
+(Il n'est pas impossible que je change quelques passages par ci par là de temps en temps)
 {{< /alert >}}
 
 ---
