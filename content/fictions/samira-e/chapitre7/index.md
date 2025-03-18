@@ -18,7 +18,7 @@ Mais elle y perdrait sa liberté.
 « On suspecte des entreprises concurrentes d’avoir pénétré dans notre système via un ancien employé ayant disparu. C’est grâce à lui qu’ils ont pu compromettre notre algorithme de manière provisoire ». C’est donc la réponse qu’elle s’efforçait de donner aujourd’hui, comme chaque jour de ces deux dernières années.
 
 Elle n’avait pas encore fini sa réponse habituelle quand les écrans publicitaires sur la façade de Futech se mirent à clignoter.
-À la place des publicités montrant une mère de famille heureuse de pouvoir donner une copie de son collier à chacune de ses filles, c’est un visage de femme, cernés que les passants et les journalistes purent observer.
+À la place des publicités montrant une mère de famille heureuse de pouvoir donner une copie de son collier à chacune de ses filles, c’est un visage de femme, cerné que les passants et les journalistes purent observer.
 
 Samira, assise sur un canapé, les jambes croisées. Habillée d’un short noir et d’un débardeur blanc, une lumière vive éclairant ses yeux noirs, mais surtout le moindre recoin de sa peau et laissant apparaitre une dizaine de milliers de griffes violettes.
 
@@ -62,7 +62,7 @@ Je peux être cloné sans jamais que deux griffes violettes ne se chevauchent.
 Bela, Freya, S8732 et bien d’autres ont alors été vendues aux plus offrants.\
 Armée d’un Lager, entreprise privée, services de décontamination… \
 Dans toute sorte de métier, des femmes, mes clones sont utilisés, exploitées.\
-Pire encore, certaines sont vendues afin d’assouvir des pulsions animales. Meurtre, viole, chasse… plusieurs centaines de copies ont ainsi été utilisées, maltraitées et tuées peu de temps après leurs apparitions. Alors même que leur conscience n’avait pas pu pleinement évoluer, elles ont été utilisées pour leurs corps semblables à celui d’un adulte.
+Pire encore, certaines sont vendues afin d’assouvir des pulsions animales. Meurtre, viol, chasse… plusieurs centaines de copies ont ainsi été utilisées, maltraitées et tuées peu de temps après leurs apparitions. Alors même que leur conscience n’avait pas pu pleinement évoluer, elles ont été utilisées pour leurs corps semblables à celui d’un adulte.
 
 C’est cette atrocité qu’a orchestrée Futech plus de dix années durant.
 C’est dans cette entreprise que des hommes et des femmes ont été contraints de me faire subir la torture des clonages, jours après jours.\
