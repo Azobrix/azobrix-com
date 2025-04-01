@@ -20,7 +20,7 @@ Mais elle y perdrait sa liberté.
 Elle n’avait pas encore fini sa réponse habituelle quand les écrans publicitaires sur la façade de Futech se mirent à clignoter.
 À la place des publicités montrant une mère de famille heureuse de pouvoir donner une copie de son collier à chacune de ses filles, c’est un visage de femme, cerné que les passants et les journalistes purent observer.
 
-Samira, assise sur un canapé, les jambes croisées. Habillée d’un short noir et d’un débardeur blanc, une lumière vive éclairant ses yeux noirs, mais surtout le moindre recoin de sa peau et laissant apparaitre une dizaine de milliers de griffes violettes.
+Samira, assise sur un canapé, les jambes croisées. Habillée d’un short noir et d’un débardeur blanc, une lumière vive éclairant ses yeux noirs, mais surtout le moindre recoin de sa peau et laissant apparaitre des dizaines de milliers de griffes violettes.
 
 La mise en scène était parfaite. N’importe quel passant, n’importe quel journalise compris la situation au premier coup d’œil.
 
