@@ -45,7 +45,7 @@ Et, bien-sûr, les caméras, 6 pour être exacte. Chacune scrutant chaque centim
 
 ---
 
-C’est sur cette chaise molletonnée qu’il passa la première année de son « service aux entreprises » comme le nomme le S.L.A.S.T.
+C’est sur cette chaise molletonnée qu’il passa la première année de son « service aux entreprises » comme le nomme le S.L.A.S.T, la corporation d'entreprise à la tête de Novaya.
 
 Huit heures par jour, cinq jours par semaine, il utilisait son pouvoir, toujours dans le même enchaînement mécanique. Ses mains agissaient sans penser comme le fait un croupier en pleine partie.
 
