@@ -8,7 +8,7 @@ tags = ["Politique", "ACAB"]
 Quelques jours seulement après la dissolution de la Jeune Garde (organisation antifasciste), police, gendarmerie, armée et douane, unies sous les ordres de Bruno Retailleau, ont interpellé, enfermé et expulsé des dizaines — peut-être des centaines — de personnes. Une véritable opération de démonstration de force, menée au nom d’un mot : « clandestins ».
 
 Ce mot n’est pas innocent. Il est savamment choisi. Il construit une image : celle de l’étranger qui se cache, du danger invisible, de l’individu venu pour nuire.
-Mais la réalité, c’est qu’on parle de femmes et d’hommes sans papiers, souvent déjà engagés dans des démarches de régularisation, et dont la plupart vivent ici depuis des années : l’étudiante en attente de renouvellement de papiers, la mère de l’ami de votre fille, votre voisin, votre nourrice...
+Mais la réalité, c’est qu’on parle de femmes et d’hommes sans papiers, souvent déjà engagés dans des [démarches de régularisation](https://www.youtube.com/watch?v=mH5e_Wo5eQ8&t=58s), et dont la plupart vivent ici depuis des années : l’étudiante en attente de renouvellement de papiers, la mère de l’ami de votre fille, votre voisin, votre nourrice...
 
 Et c’est justement eux qui sont visés, car [obligé de prendre les transports en commun](https://www.streetpress.com/sujet/1745851197-traque-des-personnes-sans-papiers-les-bus-pas-chers-dans-le-viseur) pour se déplacer, pour aller travailler. 
 
