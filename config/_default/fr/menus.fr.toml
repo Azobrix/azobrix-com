@@ -21,9 +21,14 @@ weight = 1
   weight = 2
 
 [[main]]
+name = "Politique"
+pageRef = "politique"
+weight = 3
+
+[[main]]
 name = "Fictions"
 pageRef = "fictions"
-weight = 3
+weight = 4
 
 
 #[[main]]
